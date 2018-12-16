@@ -10,9 +10,9 @@
 
 ध्यान दें: ध्यान रखें कि इनमें से कई प्रश्न खुले अंत में हैं और दिलचस्प चर्चाओं का कारण बन सकते हैं जो आपको सीधे उत्तर की तुलना में व्यक्ति की क्षमताओं के बारे में अधिक बताते हैं।
 
-## Table of Contents
+## विषय - सूची
 
-### Topics
+### विषय
 
 1. [JavaScript](/topics/en/javascript.md)
 1. [React](/topics/en/react.md)
@@ -44,10 +44,10 @@
 1. [Code Problems](/topics/en/code-problems.md)
 1. [Data Structures](/topics/en/data-structures.md)
 
-### Translations
+### अनुवाद
 See [TRANSLATIONS.md](TRANSLATIONS.md)
 
 
-## License
+## लाइसेंस
 
-All projects and packages in this repository are [MIT licensed](/LICENSE).
+इस भंडार में सभी परियोजनाओं और पैकेज हैं [MIT licensed](/LICENSE).

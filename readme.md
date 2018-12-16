@@ -6,9 +6,9 @@
 
 ## यह क्या है?
 
-सुपर-लोकप्रिय साक्षात्कार प्रश्नों का संग्रह, along with answers, and some code-snippets that will help you to prepare for technical interviews. Many of these questions a real questions from real interviews. It is by no means comprehensive, and the answers are relatively short ( and for each of the concepts, there are probably better and/or more in depth coverage in the web), but this repo like reference tool, that helps you to prepare for technical interview.
+सुपर-लोकप्रिय साक्षात्कार प्रश्नों का संग्रह, जवाब के साथ, और कुछ कोड-स्निपेट जो आपको तकनीकी साक्षात्कार के लिए तैयार करने में मदद करेंगे। इनमें से कई सवाल वास्तविक साक्षात्कार से वास्तविक प्रश्न हैं। यह किसी भी तरह से व्यापक नहीं है, और जवाब अपेक्षाकृत कम हैं ( और प्रत्येक अवधारणाओं के लिए, वेब में गहराई से कवरेज में शायद बेहतर और / या अधिक हैं), लेकिन यह रेपो संदर्भ उपकरण की तरह है, जो आपको तकनीकी साक्षात्कार के लिए तैयार करने में मदद करता है।
 
-Note: Keep in mind that many of these questions are open-ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would.
+ध्यान दें: ध्यान रखें कि इनमें से कई प्रश्न खुले अंत में हैं और दिलचस्प चर्चाओं का कारण बन सकते हैं जो आपको सीधे उत्तर की तुलना में व्यक्ति की क्षमताओं के बारे में अधिक बताते हैं।
 
 ## Table of Contents
 
